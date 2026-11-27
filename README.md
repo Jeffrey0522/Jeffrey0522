@@ -52,8 +52,8 @@ I'm currently looking for a **junior Frontend / Full Stack role**.
 
 ## 🌍 Open source & experience
 
-- **Frontend Developer @ GrantFox** (May–Aug 2026)
-- **Full Stack Developer @ OnlyDust** (2024–2025)
+- **Frontend Developer GrantFox** (May–Aug 2026)
+- **Full Stack Developer OnlyDust** (2024–2025)
 - Contributions to open-source projects, with REST APIs, databases and team workflows (issues, pull requests, code review).
 
 ---
